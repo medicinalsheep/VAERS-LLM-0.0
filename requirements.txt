@@ -1,0 +1,8 @@
+requests
+pandas
+sqlite3
+gradio
+langchain
+langchain-community
+langchain-experimental
+sqlalchemy
