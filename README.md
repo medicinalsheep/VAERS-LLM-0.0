@@ -11,7 +11,7 @@ A simple app to download VAERS data, store it in a SQLite database, and query it
 ## Setup
 1. **Clone the repo**:
    ```bash
-   git clone <https://github.com/medicinalsheep/VAERS-LLM-0.0 >
+   git clone https://github.com/medicinalsheep/VAERS-LLM-0.0
    cd vaers-llm
    
 2. **Install dependencies**:
